@@ -8,7 +8,7 @@ Run
 ```
 encoder lzss.py <input text file> <W> <L>
 ```
-Where <W> is the search window size and <L> is the lookahead buffer size.
+Where \<W\> is the search window size and \<L\> is the lookahead buffer size.
   
 ### Decompressing files
 Run
